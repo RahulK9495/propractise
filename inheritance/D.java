@@ -22,5 +22,10 @@ public class D extends C{
 		// TODO Auto-generated method stub
 		
 	}
+	
+	public void m5()
+	{
+		
+	}
 
 }
